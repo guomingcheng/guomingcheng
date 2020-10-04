@@ -1,0 +1,63 @@
+.navbar .site-name{font-family: 楷体}
+li>.depth-0>.sidebar-heading>span{font-family: 楷体}
+div[class*="language-"]{border-radius: 0px!important; }
+code, kbd, .line-number {
+    font-family: "Courier New";
+    font-size: 12px!important; overflow: hidden;
+}
+.theme-default-content pre code, .theme-default-content pre[class*="language-"] code {
+    color: #fff;
+    padding: 0;
+    background-color: transparent;
+    border-radius: 0;
+    font-family: "Courier New" !important;
+}
+.hei{display: inline-block; line-height: 20px; vertical-align: 1px; padding: 0px 5px; background: #282c34; color: floralwhite}
+.theme-default-content pre, .theme-default-content pre[class*="language-"]{line-height: 0.7em!important;}
+table{font-size: 12px}
+p{font-size: 13px}
+.theme-default-content pre, .theme-default-content pre[class*="language-"]{padding: 0.5rem 0.5rem!important;}
+#xinNian{font-family: 楷体; text-align: center; line-height: 100px;margin-top: 100px}
+#xinNian>span{font-size: 15px; vertical-align: -2px}
+
+#biaoti{text-align: center}
+#zhuyi{color: red}
+#gonglian{color: #4abf8a;}
+.theme-default-content{ font-family: "Courier New"}
+.sidebar-heading{font-family: "Courier New"}
+.sidebar-links{font-family: "Courier New"}
+
+.sidebar-sub-headers a.sidebar-link{padding-bottom: 0px; font-size: 12px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+
+
+.nginx-body{ background: #f1f1f1}
+.hong{color: red}
+.lan{ color: dodgerblue}
+.nginx-img{display: inline-block; width: 30px;background: #4abf8a}
+.nginx-div{margin-left: 30px; }
+
+.biaoti2{display: inline-block; width: 20px; height: 20px; background: red; vertical-align: -4px}
+
+.location{ font-size: 24px; line-height: 30px}
+.nginx-ul{ list-style: none; text-align: center }
+.nginx-ul>li{ float: left; width: 220px; height: 130px; margin-right: 20px; background: aquamarine; padding-top:26px; box-sizing: border-box}
+.nginx-ul>li:nth-child(4){width: 97%; height: 130px; margin-top: 20px; margin-bottom: 20px}
+
+.mianshi{width: 0px; height:0px; background: #f1f1f188; position: fixed;
+
+    border-top:26px solid #f1f1f188;
+    border-right:50px solid #ffffff;
+    border-bottom:150px solid #f1f1f1;
+    border-left: 324px solid #f1f1f188;}
+
+
+.shi{width: 100px; height: 50px}
+
+a.sidebar-link{ font-weight: bold!important;}
+
+.jianli{ width: 793px; height: auto;background: #f6f8fa }
+
+div[class*="language-"] {
+
+        margin-left: 1px !important;
+}
