@@ -45,12 +45,6 @@ module.exports =[
             ['/Java-知识/工具/maven/maven.md', "maven"],
             ['/Java-知识/工具/linux/linux.md', "linux"]
         ]
-    },
-    {
-        title:"解述篇",
-        collapsable:"true",
-        children: require("../疑问解述篇/sidebar")
     }
-
 
 ]
